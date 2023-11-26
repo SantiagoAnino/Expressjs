@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Juan",
+    "lastname": "Pindonga",
+    "username": "JuanPindonga",
+    "pass": "Juan559",
+    "id": 1
+  },
+  {
+    "name": "Jane",
+    "lastname": "Smith",
+    "username": "JaneSmith",
+    "pass": "jane456",
+    "id": 2
+  },
+  {
+    "name": "Bob",
+    "lastname": "Johnson",
+    "username": "BobJohnson",
+    "pass": "bob789",
+    "id": 3
+  },
+  {
+    "name": "Alice",
+    "lastname": "Brown",
+    "username": "AliceBrown",
+    "pass": "alice321",
+    "id": 4
+  },
+  {
+    "name": "Charlie",
+    "lastname": "Davis",
+    "username": "CharlieDavis",
+    "pass": "charlie654",
+    "id": 5
+  },
+  {
+    "name": "Emma",
+    "lastname": "Taylor",
+    "username": "EmmaTaylor",
+    "pass": "emma987",
+    "id": 6
+  },
+  {
+    "name": "Olivia",
+    "lastname": "Anderson",
+    "username": "OliviaAnderson",
+    "pass": "olivia123",
+    "id": 7
+  },
+  {
+    "name": "William",
+    "lastname": "Thomas",
+    "username": "WilliamThomas",
+    "pass": "william456",
+    "id": 8
+  },
+  {
+    "name": "Ava",
+    "lastname": "White",
+    "username": "AvaWhite",
+    "pass": "ava789",
+    "id": 9
+  },
+  {
+    "name": "Liam",
+    "lastname": "Evans",
+    "username": "LiamEvans",
+    "pass": "liam321",
+    "id": 10
+  }
+]

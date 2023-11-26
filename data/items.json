@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Portatil",
+    "desc": "Powerful laptop for productivity",
+    "purchase_price": 800,
+    "selling_price": 1100,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Headphones",
+    "desc": "High-quality noise-canceling headphones",
+    "purchase_price": 100,
+    "selling_price": 150,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Desk Chair",
+    "desc": "Comfortable ergonomic desk chair",
+    "purchase_price": 120,
+    "selling_price": 180,
+    "category": "Furniture"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "desc": "Latest model with advanced features",
+    "purchase_price": 500,
+    "selling_price": 700,
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "name": "Coffee Maker",
+    "desc": "Programmable coffee maker for home",
+    "purchase_price": 50,
+    "selling_price": 80,
+    "category": "Appliances"
+  },
+  {
+    "id": 6,
+    "name": "Running Shoes",
+    "desc": "High-performance running shoes",
+    "purchase_price": 60,
+    "selling_price": 90,
+    "category": "Clothing"
+  },
+  {
+    "id": 7,
+    "name": "Digital Camera",
+    "desc": "Professional-grade digital camera",
+    "purchase_price": 800,
+    "selling_price": 1100,
+    "category": "Electronics"
+  },
+  {
+    "id": 8,
+    "name": "Cookware Set",
+    "desc": "Non-stick cookware set for the kitchen",
+    "purchase_price": 100,
+    "selling_price": 150,
+    "category": "Kitchen"
+  },
+  {
+    "id": 9,
+    "name": "Backpack",
+    "desc": "Durable and stylish backpack for everyday use",
+    "purchase_price": 30,
+    "selling_price": 50,
+    "category": "Accessories"
+  },
+  {
+    "id": 10,
+    "name": "Gaming Console",
+    "desc": "Popular gaming console with cutting-edge graphics",
+    "purchase_price": 300,
+    "selling_price": 400,
+    "category": "Electronics"
+  }
+]
